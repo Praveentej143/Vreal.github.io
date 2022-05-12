@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navItem1 {
+    color: #323f4b;
+}
+
+#navItem2 {
+    color: #323f4b;
+}
+
+#navItem3 {
+    color: #323f4b;
+}
+
+.logo {
+    width: 50px;
+    height: 30px;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-section-heading {
+    font-family: Roboto;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.view-btn {
+    background-color: #1a2137;
+    border: none;
+    color: #ffffff;
+    height: 40px;
+    width: 136px;
+    border-radius: 5px;
+}
+
+/* FEATURES-SECTION */
+
+.features-section {
+    background-color: #ffffff;
+    padding: 10px;
+    font-family: Roboto;
+}
+
+.features-heading {
+    font-weight: bold;
+    color: #1f2933;
+    font-family: Roboto;
+    font-size: 24px;
+}
+
+.features-img {
+    height: 60px;
+    width: 60px;
+}
+
+.features-card-heading {
+    color: #1f2933;
+    font-size: 20px;
+}
+
+.features-card-desc {
+    color: #7b8794;
+    font-size: 14px;
+}
+
+.span-heighlet {
+    font-weight: bold;
+    font-style: italic;
+    color: #1f2933;
+}
+
+.features-card-container {}
+
+/* WEBSITE KIT-SEC */
+
+.website-kit-section {
+    background-color: #f9fbfe;
+    padding: 15px;
+
+}
+
+.heading {
+    font-size: 25px;
+    font-weight: bold;
+    color: #1f2933;
+    padding-bottom: 15px;
+}
+
+.img {
+    width: 200px;
+    height: 250px;
+}
+
+.card-container {
+    padding: 15px;
+}
+
+.label {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+/* VR-COMPONENETS SECTION */
+
+.vr-optics-controllers {
+    background-color: #f9fbfe;
+    padding: 15px;
+    font-family: Roboto;
+    overflow: hidden;
+}
+
+.vr-card-img {
+    width: 100%;
+}
+
+.vr-heading {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.vr-para {
+    color: #7b8794;
+    font-size: 18px;
+}
+
+.readmore-btn {
+    background-color: #1a2137;
+    color: #ffffff;
+    width: 130px;
+    height: 40px;
+    border-radius: 6px;
+    border: none;
+
+}
+
+/* CONTACT US SECTION */
+
+.contact-us {
+    background-color: #222b36;
+    font-family: Roboto;
+}
+
+.contact-heading {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.contact-img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+/* BLOG-SECTION */
+
+.trending-blogs {
+    background-color: #ffffff;
+    font-family: Roboto;
+}
+
+.trend-heading {
+    color: #1f2933;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.blog-card-img {
+    width: 100%;
+}
+
+.blog-sub-head {
+    color: #959ead;
+    font-size: 14px;
+}
+
+.blog-desc {
+    color: #323f4b;
+    font-size: 18px;
+}
+
+.more-para {
+    color: #1754a1;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.btnView {
+    background-color: #1754a1;
+    border: none;
+    width: 130px;
+    height: 40px;
+}
+
+/* PRODUCTS SECTION */
+
+.Products-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    color: #ffffff;
+    font-family: Roboto;
+    width: 100%;
+    height: 600px;
+}
+
+.Products-card-2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    width: 100%;
+    color: #ffffff;
+    font-family: Roboto;
+    height: 600px;
+}
+
+.products-heading {
+    font-size: 32px;
+    font-family: Roboto;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.Products-card-desc {
+    font-size: 32px;
+}
+
+.products-view-btn {
+    background-color: #1754a1;
+    width: 130px;
+    height: 40px;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-family: Roboto;
+}
